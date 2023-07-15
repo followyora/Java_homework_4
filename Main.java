@@ -21,7 +21,10 @@ public class Main {
         String newWord = word1.substring(0, Lenght1 / 2) + word2.substring(Lenght2 / 2, Lenght2);
         System.out.println("The combined word is:" + newWord);
 
-
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("Задание номер 2: Запуск!");
         System.out.println("****************************");
         System.out.println("******#2***#2***#2****#2*****");
         System.out.println("****************************");
